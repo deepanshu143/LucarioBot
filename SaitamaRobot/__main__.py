@@ -227,12 +227,12 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🚑 Support",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                text="🔔 Updates",
+                                url=f"https://t.me/SuneoAndLucarioUpdates",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Updates",
-                                url="https://t.me/OnePunchUpdates",
+                                text="❓ Help",
+                                url="https://t.me/Lucario?start=help",
                             ),
                         ],
                         [
@@ -247,8 +247,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="☠️ Kaizoku Network",
-                                url="https://t.me/Kaizoku/4",
+                                text="🔥 My Master",
+                                url="https://t.me/MTY_IZ",
                             ),
                         ],
                     ],
